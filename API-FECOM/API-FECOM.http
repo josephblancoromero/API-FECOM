@@ -1,0 +1,6 @@
+@API_FECOM_HostAddress = http://localhost:5210
+
+GET {{API_FECOM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
