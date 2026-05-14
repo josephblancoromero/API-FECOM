@@ -131,13 +131,13 @@ POST /api/Productos
 
 ## 🔐 Login JWT
 
-![Login](imagenes/loginjwt.png)
+![Login](imagenes/login.PNG)
 
 ---
 
 ## 📦 Endpoints Productos
 
-![Productos](imagenes/productos.png)
+![Productos](imagenes/productos.PNG)
 
 ---
 
